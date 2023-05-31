@@ -20,7 +20,6 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
@@ -33,7 +32,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> This is an initial project, usin HTML & CSS ...
+> This is an initial project, using HTML & CSS ...
 
 ## 🛠 Built With <a name="built-with"></a>
 
