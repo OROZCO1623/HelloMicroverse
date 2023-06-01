@@ -18,9 +18,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -59,12 +61,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming soon...
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
@@ -74,6 +70,34 @@
 3. Git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+Clone this repository to your desired folder using Git:
+
+```sh
+  cd Folder
+  git clone https://github.com/OROZCO1623/HelloMicroverse.git
+  code . (To open in Vscode)
+```
+
+### Install
+
+> Disclaimer: This is a simple project and dosen't require an installation more than using your preferred code editor and GitBash to clone it to your Local Enviroment as described in the "usage" section .
+
+Even though, for general purposes, Install this project with:
+
+```sh
+  cd folder
+  npm install
+```
+
+### Usage
+
+To run the project, do the following:
+
+A. Use VS CODE live Server extension<br>
+B. Copy the Path of the HTML file and open it in the Web Browser
 
 <!-- AUTHORS -->
 
